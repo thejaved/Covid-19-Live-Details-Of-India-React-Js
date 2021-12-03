@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Covid-19-Live-Details-Of-India-React-Js/static/css/main.bba2b62d.chunk.css",
+    "main.js": "/Covid-19-Live-Details-Of-India-React-Js/static/js/main.8d17c242.chunk.js",
+    "main.js.map": "/Covid-19-Live-Details-Of-India-React-Js/static/js/main.8d17c242.chunk.js.map",
+    "runtime-main.js": "/Covid-19-Live-Details-Of-India-React-Js/static/js/runtime-main.f3f7e41b.js",
+    "runtime-main.js.map": "/Covid-19-Live-Details-Of-India-React-Js/static/js/runtime-main.f3f7e41b.js.map",
+    "static/js/2.bc0ca049.chunk.js": "/Covid-19-Live-Details-Of-India-React-Js/static/js/2.bc0ca049.chunk.js",
+    "static/js/2.bc0ca049.chunk.js.map": "/Covid-19-Live-Details-Of-India-React-Js/static/js/2.bc0ca049.chunk.js.map",
+    "index.html": "/Covid-19-Live-Details-Of-India-React-Js/index.html",
+    "static/css/main.bba2b62d.chunk.css.map": "/Covid-19-Live-Details-Of-India-React-Js/static/css/main.bba2b62d.chunk.css.map",
+    "static/js/2.bc0ca049.chunk.js.LICENSE.txt": "/Covid-19-Live-Details-Of-India-React-Js/static/js/2.bc0ca049.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3f7e41b.js",
+    "static/js/2.bc0ca049.chunk.js",
+    "static/css/main.bba2b62d.chunk.css",
+    "static/js/main.8d17c242.chunk.js"
+  ]
+}
