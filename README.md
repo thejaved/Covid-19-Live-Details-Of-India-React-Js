@@ -1,4 +1,4 @@
-# Getting Started with Create React App - See The Live View:- [Covid-19-Live-Details-Of-India-React-Js](https://thejaved.github.io/Covid-19-Live-Details-Of-India-React-Js/)
+# GettingStartedwith Create React App - See The Live View:- [Covid-19-Live-Details-Of-India-React-Js](https://thejaved.github.io/Covid-19-Live-Details-Of-India-React-Js/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
